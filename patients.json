@@ -1,0 +1,44 @@
+{
+  "p0001": {
+    "name": "John Doe",
+    "weight": 70,
+    "height": 1.75,
+    "bmi": 22.86
+  },
+  "p0002": {
+    "name": "Jane Smith",
+    "weight": 60,
+    "height": 1.65,
+    "bmi": 22.04
+  },
+  "p0003": {
+    "name": "Alice Johnson",
+    "weight": 55,
+    "height": 1.6,
+    "bmi": 21.48
+  },
+  "p0004": {
+    "name": "Bob Brown",
+    "weight": 80,
+    "height": 1.8,
+    "bmi": 24.69
+  },
+  "p0005": {
+    "name": "Charlie Davis",
+    "weight": 90,
+    "height": 1.85,
+    "bmi": 26.32
+  },
+  "p0006": {
+    "name": "Diana Prince",
+    "weight": 70,
+    "height": 1.7,
+    "bmi": 24.22
+  },
+  "p0007": {
+    "name": "Ethan Hunt",
+    "weight": 75,
+    "height": 1.78,
+    "bmi": 23.66
+  }
+}
