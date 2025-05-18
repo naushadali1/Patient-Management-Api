@@ -1,5 +1,4 @@
 from fastapi import FastAPI
-
 app= FastAPI()
 
 @app.get("/")
@@ -12,6 +11,4 @@ async def about():
     return {
         "message": "management system for patients for a hospital"
     }
-
-
 
